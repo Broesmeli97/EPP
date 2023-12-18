@@ -1,0 +1,33 @@
+.HiMain { background: #45581F; color: AntiqueWhite; font-size: 14pt }
+.NavLink {color:red; }
+
+a
+   {
+   text-decoration: none;
+   }
+a:link    {color: red;}
+a:visited {color: blue;}
+a:hover   {color: orange;}
+
+hr
+   {
+   color:#666666
+   }
+
+body.GL {color: #000000; background-color: #DDFFDD;}
+body.KJ {color: #000000; background-color: #DDDDFF;}
+body.WK {color: #000000; background-color: #FFDDFF;}
+body.XR {color: #000000; background-color: #EEEEEE;}
+
+i.NA { color: #FF0000; font-size: 16pt;}
+
+div.Hdr {background-color: #DDDDDD;}
+div.HdrKj {background-color: #BBBBEE;}
+div.HdrWk {background-color: #F4C4F4;}
+
+span.MsoFootnoteReference
+   {vertical-align:text-top;}
+
+div.XrLnk { margin-left: .25in; text-indent: -.25in;}
+
+.XrSep { text-align:center; font-family:arial; font-size:10pt; font-weight:bold }

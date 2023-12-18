@@ -1,0 +1,15 @@
+.RefNAV {color:#000000; background-color:#FFFFAA;}
+.RefGL {color:#000000; background-color:#DDFFDD;}
+.RefKJ {color:#000000; background-color:#DDDDFF;}
+.RefWK {color:#000000; background-color:#FFDDFF;}
+.RefXR {color:#000000; background-color:#EEEEEE;}
+.TutorialSubSection {font-size:12pt; font-weight:bold;}
+.TutorialSection {font-size:16pt; font-weight:bold;}
+
+a
+   {
+   text-decoration: none;
+   }
+a:link    {color: red;}
+a:visited {color: red;}
+a:hover   {color: brown;}

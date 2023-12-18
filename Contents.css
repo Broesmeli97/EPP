@@ -1,0 +1,5 @@
+li.Work { color: Indigo; font-size: 16pt }
+li.Author { color: Teal; font-size: 14pt }
+
+td.TableHdr   { color: yellow; text-align: center; font-size: 14pt; }
+td.TableEntry { color: AntiqueWhite; font-size: 14pt; }
